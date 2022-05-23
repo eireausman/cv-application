@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "skill": "Development",
+    "level": "5"
+  },
+  {
+    "id": 2,
+    "skill": "Talking",
+    "level": "6"
+  },
+  {
+    "id": 3,
+    "skill": "Running",
+    "level": "4"
+  },
+  {
+    "id": 4,
+    "skill": "Walking",
+    "level": "8"
+  }
+]
